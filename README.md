@@ -1,5 +1,4 @@
 # tech_Interview_study
----
 ### 1th 모의 면접 질문(Javascript) 7/17
 ```
 (질문)
